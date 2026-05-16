@@ -3,3 +3,7 @@ dist/
 *.js.map
 .env
 coverage/
+run-install.bat
+run-tests.bat
+run-git.bat
+run-git2.bat
